@@ -1,4 +1,4 @@
-# soilphy-1d
+# soilphia-1d
 
 soilphy-1d aims to be a computational solution to solve [Richard equation](https://en.wikipedia.org/wiki/Richards_equation). Meanwhile, it should be designed for interaction with agricultural decision making ( can be interrupted then giving new management input ) such as irrigation management(control).
 
