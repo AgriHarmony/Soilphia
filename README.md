@@ -12,9 +12,11 @@ We want to develop  dynamic irrigation strategy (control method) in simulation e
   - [] https://arxiv.org/pdf/1706.03381.pdf
   - [] https://philippkraft.github.io/cmf/cmf_tut_solute_transport1_d.html
   
-## Survey
+## Survey library
 -[] OpenFOAM
 
+## Comparison
+-[Hydrus](https://en.wikipedia.org/wiki/Hydrus_(software))
 
 ## reference
 
@@ -28,3 +30,5 @@ We want to develop  dynamic irrigation strategy (control method) in simulation e
 - [Unsaturated soil water flow model, cbsteh](https://github.com/cbsteh/PyWaterBal)
 
 ### Research Papers
+
+= [Numerical Solution of Richards’ Equation: A Review of Advances and Challenges](https://www.researchgate.net/publication/320515457_Numerical_Solution_of_Richards'_Equation_A_Review_of_Advances_and_Challenges)
