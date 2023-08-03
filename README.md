@@ -7,7 +7,8 @@ We want to develop  dynamic irrigation strategy (control method) in simulation e
 
 ## Todo
 - [] Understand Richard Equation 1D
-  - [] How represent soil in numerical
+  - [] How represent soil in numerical?
+    - [] Read soil physic with python ch2.1~2.14
 - [] Solve Richard Equation 1D
 - [] Solve Richard Equation 2D
 - [] How to get verifcation dataset (ground turth)
