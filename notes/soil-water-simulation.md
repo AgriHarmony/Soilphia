@@ -38,6 +38,8 @@ Reference open source project
 - [Unsaturated soil water flow model, cbsteh](https://github.com/cbsteh/PyWaterBal)
 - [amireson/RichardsEquation_improved](https://github.com/amireson/RichardsEquation_improved)
 - [PMFlow/RichardsEquation](https://github.com/PMFlow/RichardsEquation)
+https://github.com/nepluno/apic2d
+
 
 ## 2. Non-richard eqautaion
 - [SWB2](https://github.com/smwesten-usgs/swb2)
@@ -50,6 +52,6 @@ Reference open source project
 - [hydrology](https://develop.openfoam.com/Community/hydrology)
   
 ## 4. Solve simulation by Geo-based
-
+https://github.com/ARPA-SIMC/CRITERIA1D
 
 https://docs.simpeg.xyz/
